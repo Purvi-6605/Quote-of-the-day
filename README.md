@@ -21,8 +21,5 @@
 - Web App Manifest
 
 ## 🖼 Screenshots
-
-![screenshot](preview.png) <!-- Add an actual screenshot if available -->
-
 ## 📦 Folder Structure
 
